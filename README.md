@@ -20,3 +20,4 @@ You can also middle click your avatar in the quick settings field at the bottom.
 
 ## Download
 [Click here to download](https://github.com/rtdinc/AccountSwitcher/releases/download/1.0/accountswitch.plugin.js)
+y
